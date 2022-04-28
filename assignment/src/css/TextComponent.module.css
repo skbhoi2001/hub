@@ -1,0 +1,13 @@
+.bodyContiner{
+    display: flex;
+    flex-direction: row;
+    gap: 1%;
+}
+.bodyContiner>div:nth-child(2){
+    flex-grow: 2;
+}
+.contBody{
+    display: flex;
+    border: 1px solid gray;
+    flex-direction: column;
+}

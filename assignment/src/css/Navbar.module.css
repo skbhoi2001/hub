@@ -1,0 +1,17 @@
+.navTop{
+    display: flex;
+    gap: 1%;
+}
+.navData{
+    display: flex;
+}
+.navData>div:nth-child(1)>p:nth-child(1){
+    font-size: 15px;
+    margin: 0 ;
+    padding: 0;
+}
+.navData>div:nth-child(1)>p:nth-child(2){
+    font-size: 10px;
+    margin: 0 ;
+    padding: 0;
+}
